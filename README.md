@@ -13,7 +13,9 @@ Text preprocessing and feature extraction
 Machine learning model training + evaluation
 
 ## 🛠 Tech Stack
+```
 Python · Pandas · Scikit-Learn · NLTK · NumPy
+```
 
 ## 📌 Output
 Predictive ML model for automated complaint classification.
